@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+}
+
+.dog-list {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.image-chien {
+  width: 11rem;
+}
